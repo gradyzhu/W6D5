@@ -1,0 +1,24 @@
+
+h2 {
+  font-family: 'Abril Fatface', cursive;  
+}
+.date {
+  margin-right: 20px;
+  width: 300px;
+  height: 100px;
+  background-color: bisque;
+  align-content: flex;
+  text-align: center;
+  display: inline-block;
+  justify-content: center;
+  vertical-align: text-bottom;
+  padding-top: 60px;
+  border: 3px solid black;
+  border-radius: 20px;
+}
+
+.clock-box {
+  width: 500px;
+  height: 250px;
+  background-color: 
+}
